@@ -1,0 +1,4 @@
+name,ring,quadrant,isNew,description
+FastAPI,Assess,Languages-and-Framework,TRUE,Lightweight Python API framework based on OpenAPI.
+Eve,Hold,Languages-and-Framework,FALSE,Python API framework extending Flask.
+Python,Adopt,Languages-and-Framework,FALSE,Python programming language.
